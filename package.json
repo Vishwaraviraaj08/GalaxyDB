@@ -1,5 +1,5 @@
 {
-  "name": "vrdb",
+  "name": "@vishwaraviraaj/galaxydb",
   "version": "1.0.0",
   "description": "a local database library",
   "main": "index.js",
