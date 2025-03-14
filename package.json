@@ -1,0 +1,22 @@
+{
+  "name": "vrdb",
+  "version": "1.0.0",
+  "description": "a local database library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localdb",
+    "database",
+    "local"
+  ],
+  "author": "vr08",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "papaparse": "^5.5.2"
+  }
+}

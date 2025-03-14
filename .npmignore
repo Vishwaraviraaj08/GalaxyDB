@@ -1,0 +1,10 @@
+node_modules/
+test/
+.env
+logs/
+.git/
+.gitignore
+schema/
+database/
+index.csv
+logs.txt
